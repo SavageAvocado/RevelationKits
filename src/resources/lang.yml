@@ -1,0 +1,22 @@
+error:
+  invalid-arguments: "&cInvalid arguments! Try: /%command%"
+  no-permission: "&cYou do not have permission to execute this command."
+create:
+  already-exists: "&cA kit by the name of %name% already exists."
+  delay-error: "&cThe kit delay must be a number."
+  file-error: "&cAn error occurred creating a file for the kit."
+  load-error: "&cAn error occurred loading the kit. Check console for more info."
+  success: "&aKit %name% successfully created."
+delete:
+  does-not-exist: "&cA kit called %name% does not exist."
+  file-error: "&cAnd error occurred while deleting the kit."
+  success: "&aKit %name% successfully deleted."
+kit:
+  list: "&aKits available: %kits%"
+  list-separator: ", "
+  does-not-exist: "&cA kit called %name% does not exist."
+  on-cooldown: "&cThat kit is on cooldown for %cooldown%."
+  dropped: "&aYou have received the kit %name%. (Some of it was dropped)"
+  success: "&aYou have received the kit %name%."
+admin:
+  reload: "&aRevelationKits successfully reloaded."

@@ -1,0 +1,116 @@
+delay: 60
+contents:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §3§lStarter Sword
+      enchants:
+        DAMAGE_ALL: 1
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §3§lStarter Bow
+      enchants:
+        ARROW_DAMAGE: 1
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §3§lStarter Pick
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: IRON_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §3§lStarter Axe
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: IRON_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §3§lStarter Shovel
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: CRAFTING_TABLE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §3§lStarter Crafting Table
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: FURNACE
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §3§lStarter Furnace
+      blockMaterial: FURNACE
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: COOKED_BEEF
+    amount: 32
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §3§lStarter Steak
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: ARROW
+    amount: 64
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: GOLDEN_SHOVEL
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §3§lFancy Shoes
+      enchants:
+        FROST_WALKER: 10
+        PROTECTION_FALL: 10
+        DEPTH_STRIDER: 10
+      repair-cost: 1
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: ELYTRA
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 10
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: TURTLE_HELMET
+  '40':
+    ==: org.bukkit.inventory.ItemStack
+    v: 1952
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElMZ2ZgcUosTmVgYGBkYAAAw96HiiEAAAA=
+      blockMaterial: SHIELD

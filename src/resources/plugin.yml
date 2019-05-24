@@ -1,0 +1,23 @@
+name: RevelationKits
+description: None.
+
+author: SavageAvocado.
+website: savagedev.net
+
+main: net.savagedev.kits.RevelationKits
+api-version: 1.14
+version: 1.0
+
+commands:
+  createkit:
+    description: Creates a new kit.
+    aliases: ["kitcreate"]
+  deletekit:
+    description: Deletes a kit.
+    aliases: ["kitdelete"]
+  reloadkit:
+    description: Reload the plugin.
+    aliases: ["kitreload"]
+  kit:
+    description: Lists the kits available.
+    aliases: ["kits"]

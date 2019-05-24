@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RevelationKits:jar">
+    <output-path>E:/Servers/Revelation 1.13.2/Lobby/plugins</output-path>
+    <root id="archive" name="RevelationKits.jar">
+      <element id="module-output" name="RevelationKits" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/default.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/lang.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

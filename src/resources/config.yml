@@ -1,0 +1,4 @@
+# Formats:
+# LONG (years, months, days, hours, minutes, seconds)
+# SHORT (y, mo, d, h, m , s)
+delay-time-format: LONG
