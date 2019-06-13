@@ -1,3 +1,3 @@
 # RevelationKits
 
-A kit plugin for RevelationMC.
+The RevelationMC kit plugin.
